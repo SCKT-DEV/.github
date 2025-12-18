@@ -1,3 +1,3 @@
 # Coming soon 
 
-Stiamo lavorando per questa README!
+Stiamo lavorando per questo README!
